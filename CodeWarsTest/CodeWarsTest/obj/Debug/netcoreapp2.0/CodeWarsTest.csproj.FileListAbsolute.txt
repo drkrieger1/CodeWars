@@ -1,0 +1,11 @@
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\bin\Debug\netcoreapp2.0\CodeWarsTest.deps.json
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\bin\Debug\netcoreapp2.0\CodeWarsTest.runtimeconfig.json
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\bin\Debug\netcoreapp2.0\CodeWarsTest.runtimeconfig.dev.json
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\bin\Debug\netcoreapp2.0\CodeWarsTest.dll
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\bin\Debug\netcoreapp2.0\CodeWarsTest.pdb
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\obj\Debug\netcoreapp2.0\CodeWarsTest.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\obj\Debug\netcoreapp2.0\CodeWarsTest.csproj.CoreCompileInputs.cache
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\obj\Debug\netcoreapp2.0\CodeWarsTest.AssemblyInfoInputs.cache
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\obj\Debug\netcoreapp2.0\CodeWarsTest.AssemblyInfo.cs
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\obj\Debug\netcoreapp2.0\CodeWarsTest.dll
+C:\Users\EndUser\source\repos\CodeWars\CodeWarsTest\CodeWarsTest\obj\Debug\netcoreapp2.0\CodeWarsTest.pdb
