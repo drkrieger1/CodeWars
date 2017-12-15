@@ -8,9 +8,13 @@ namespace CodeWarsTest
         {
             Console.WriteLine("Code wars Kata");
 
-            FindPrime();
+            //FindPrime();
+
+            LikeCount();
             Console.Read();
         }
+       
+        //find if a number is prime 
         static void FindPrime()
         {
             Console.WriteLine("Enter a number");
@@ -26,5 +30,20 @@ namespace CodeWarsTest
                 Console.WriteLine($"Sorry {input} is not a Prime Number");
             }
         }
+
+        //This is to run the like counter method
+        static void LikeCount()
+        {
+            string[] names1 = { "Erik", "Lindsey", "Kirill", "Albert" };
+            string[] names2 = { "Erik", "Lindsey", "Kirill"};
+            string[] names3 = { "Erik", "Lindsey"};
+            string[] names4 = { "Erik"};
+
+            Console.WriteLine(WhoLikesThis.Likes(names1));
+            Console.WriteLine(WhoLikesThis.Likes(names2));
+            Console.WriteLine(WhoLikesThis.Likes(names3));
+            Console.WriteLine(WhoLikesThis.Likes(names4));
+        }
+
     }
 }

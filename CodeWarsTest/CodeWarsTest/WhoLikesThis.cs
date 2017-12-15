@@ -5,8 +5,9 @@ using System.Text;
 namespace CodeWarsTest
 {
     class WhoLikesThis
-    {
-        public string Likes(string[] name)
+    {   
+        //brute brute force solution 
+        public static string Likes(string[] name)
         {
             if (name.Length == 0)
             {
